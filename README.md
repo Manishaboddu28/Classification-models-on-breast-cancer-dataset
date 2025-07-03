@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Classification Using Machine Learning
+# 🩺 Classification_Models_On_Breast_Cancer_Dataset
 This repository showcases how different classification models perform on the Breast Cancer Wisconsin dataset. The aim is to build predictive models that can accurately classify whether a tumor is benign or malignant.
 
 # 📁 Project Structure
